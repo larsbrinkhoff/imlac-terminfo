@@ -1,0 +1,7 @@
+imlac|ssv,
+	columns#90, lines#44, over_strike,
+	bell=^G, carriage_return=^M, clear_screen=^R, tab=^I,
+	clr_eol=^Q, clr_eos=^P, delete_line=^S,
+	cursor_down=^J, cursor_home=^T,
+	cursor_left=^O, cursor_right=^Y, cursor_up=^Z,
+	scroll_forward=^J,
